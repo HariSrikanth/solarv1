@@ -1,3 +1,36 @@
+Demo Link:https://www.loom.com/share/6de10ae187814ef59ef9e3a71f46a735?sid=c269394a-1431-4731-8de8-802f247f59d3
+
+# Solar: The AI-Powered DeFi Copilot for the Flare Network
+
+Solar is an autonomous DeFi copilot designed to simplify and optimize user interactions within the **Flare ecosystem**. It seamlessly integrates with **SparkDex, the Flare Time Series Oracle (FTSO), and RainDex**, leveraging **Agentic AI, TEE-secured execution, and Gemini’s multimodal intelligence** to enable secure, natural language-driven on-chain operations.
+
+## Key Capabilities
+
+### Market Intelligence & Strategic Analysis
+- Utilizes the **Flare Time Series Oracle (FTSO)** for real-time price feeds, trend analysis, and risk management.
+- AI-driven **portfolio analysis** and **automated trading strategies** based on market conditions.
+
+### Automated Trading & Liquidity Management
+- Integrates **SparkDex** for **efficient token swaps** (Raindex integration pending).
+- **Smart trade execution** minimizes slippage and transaction costs.
+
+### Secure Smart Contract Deployment (Pending)
+- AI-generated **custom smart contracts** for staking, trading, and automated DeFi operations.
+- **TEE-secured execution** ensures privacy and prevents tampering.
+
+### Agentic AI for DeFi Automation
+- Processes **natural language inputs** to execute trades, manage assets, and interact with decentralized applications.
+- Learns user behavior to provide **context-aware DeFi insights** and predictive analytics.
+
+### Cross-Chain Asset Transfers & Interoperability
+- Supports **Flare’s FAssets** and **LayerCake bridges** for **cross-chain swaps and DeFi interactions**.
+- Optimizes **asset flows across ecosystems** using AI-driven execution.
+
+---
+
+Solar eliminates complexity and enhances efficiency, making DeFi on Flare more intuitive, secure, and automated. Whether you're a **new user** or an **experienced trader**, Solar provides a streamlined way to **build, trade, and interact** in the decentralized financial landscape.
+
+
 # Flare AI DeFAI
 
 Flare AI Kit template for AI x DeFi (DeFAI).
